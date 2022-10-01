@@ -12,6 +12,6 @@
 
 
 ## Found Bug 🐛?
-Dm Me! [Contact](t.me/@ItzMehHaznLol)
+Dm Me! [Contact](t.me/ItzMehHaznLol)
 
 Have A Good Day 🌟
