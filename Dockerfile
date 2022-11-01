@@ -1,4 +1,4 @@
-FROM node:16.13.0
+FROM ubuntu:20.04.5
 RUN apt update -y > /dev/null 2>&1 && apt upgrade -y > /dev/null 2>&1
 ARG ngrokid
 ARG Password
